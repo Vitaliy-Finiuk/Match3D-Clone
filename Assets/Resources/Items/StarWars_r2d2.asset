@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f624032301fb7e4a8f71ab3fd8b9a88, type: 3}
+  m_Name: StarWars_r2d2
+  m_EditorClassIdentifier: 
+  _id: 37
+  _mesh: {fileID: 629839881817688970, guid: 3aaf5923568c1d54f87025ed60b44caf, type: 3}
+  _pair: {fileID: 11400000, guid: 4ae3d689045ef884394d1c0d0b1aed37, type: 2}
+  _matchingAnimation: {fileID: 7400000, guid: d4fa637b351891148a3bf6147a6e74b6, type: 2}
+  _matchingSide: 0
